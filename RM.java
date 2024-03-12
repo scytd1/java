@@ -11,3 +11,5 @@ public class RM{
 
     }
 }
+/*Use the statement x = Math.random() to calculate what percentage of iterations produces a
+value greater than 0.5. Display this value for 10, 100 and 1000 iterations.*/
